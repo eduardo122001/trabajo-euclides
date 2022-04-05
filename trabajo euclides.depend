@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649108848 source:d:\c++\trabajo euclides\main.cpp
+	<iostream>
+	<ctime>
+
